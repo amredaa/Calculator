@@ -1,16 +1,7 @@
 # Calculator-using-HTML-CSS-and-JS
 
 
->This Repositary contains three files: 
+> It is a basic app created to learn HTML CSS and JS concepts.
 
 
-
-* calcindex.html
-
-* calcscript.js
-
-* calcstyle.css
-
-
-
-The style sheet contains the necessary stylings and the calcscript file contains the necessary functions to implement the calculator.
+#### To run the app open index.html file in any of your browser
